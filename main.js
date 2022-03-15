@@ -29,3 +29,4 @@ let secondname=change[1];
 let thirdname=change[2];
 let fullName=(firstname +' '+ secondname[0] + '.' + thirdname[0] + '.');
 console.log(fullName);
+
